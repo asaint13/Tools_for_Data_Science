@@ -1,1 +1,1 @@
-# Tools_for_Data_Science
+Repo for the final assignment for the Tools for Data Science course
